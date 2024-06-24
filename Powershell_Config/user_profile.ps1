@@ -1,4 +1,4 @@
-oh-my-posh init pwsh --config 'C:\Users\Windows\scoop\apps\oh-my-posh\current\themes\M365Princess.omp.json' | Invoke-Expression
+oh-my-posh init pwsh --config 'C:\Users\Bidanpc\scoop\apps\oh-my-posh\current\themes\paradox-bidan.omp.json' | Invoke-Expression
 
 Import-Module Terminal-Icons
 
