@@ -1,0 +1,35 @@
+﻿@code
+
+#### Don't modify this ! ####
+
+    language: English
+    countries: us uk
+
+#############################
+
+#############################
+####     add for rbp     ####
+
+# group: Preferences
+"English" = "English"
+"French" = "Français"
+"German" = "Deutsch"
+"Spanish" = "Español"
+"Italian" = "Tiếng Việt - Dịch Bởi Bidan"
+"Dutch" = "Nederlands"
+"Russian" = "Русский"
+"Portugal" = "Português"
+"Swedish" = "Svenska"
+"Danish" = "Dansk"
+"Turkish" = "Türkçe"
+"Greek" = "Ελληνικά"
+"Hungarian" = "Magyar"
+"Czech" = "čeština"
+"Chinese simplified" = "筒体中文"
+"Chinese traditional" = "繁體中文"
+"Korean" = "한국어"
+"Japanese" = "日本語"
+"+/-6" = "±6"
+"+/-10" = "±10"
+"+/-16" = "±16"
+@endcode
