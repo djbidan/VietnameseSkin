@@ -16,7 +16,7 @@
     // 1. Load file JSON từ GitHub
     GM_xmlhttpRequest({
         method: "GET",
-        url: "djbidan/Terminal/okkv/answers.json,
+        url: "https://github.com/djbidan/VietnameseSkin/raw/refs/heads/Bidan/Okkv/answers.json,
         onload: function(response) {
             try {
                 answerMap = JSON.parse(response.responseText);
